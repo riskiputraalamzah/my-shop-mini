@@ -1,0 +1,24 @@
+Resolving dependencies...
+Downloading packages...
+  characters 1.4.0 (1.4.1 available)
+  material_color_utilities 0.11.1 (0.13.0 available)
+  test_api 0.7.7 (0.7.8 available)
+Got dependencies!
+3 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+Analyzing my_shop_mini_2...                                     
+
+   info - The constant name 'DUMMY_CATEGORIES' isn't a lowerCamelCase identifier - lib\data\dummy_data.dart:5:7 - constant_identifier_names
+   info - Unnecessary 'const' keyword - lib\data\dummy_data.dart:5:26 - unnecessary_const
+   info - The constant name 'DUMMY_PRODUCTS' isn't a lowerCamelCase identifier - lib\data\dummy_data.dart:44:7 - constant_identifier_names
+   info - Unnecessary 'const' keyword - lib\data\dummy_data.dart:44:24 - unnecessary_const
+   info - Parameter 'key' could be a super parameter - lib\main.dart:12:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\screens\home_screen.dart:10:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\screens\product_detail_screen.dart:9:9 - use_super_parameters
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\product_detail_screen.dart:80:57 - deprecated_member_use
+   info - Parameter 'key' could be a super parameter - lib\screens\product_list_screen.dart:10:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\widgets\glass_container.dart:14:9 - use_super_parameters
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\glass_container.dart:39:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\glass_container.dart:42:37 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\glass_container.dart:47:39 - deprecated_member_use
+

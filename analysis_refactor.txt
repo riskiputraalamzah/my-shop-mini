@@ -1,0 +1,12 @@
+Resolving dependencies...
+Downloading packages...
+  characters 1.4.0 (1.4.1 available)
+  material_color_utilities 0.11.1 (0.13.0 available)
+  test_api 0.7.7 (0.7.8 available)
+Got dependencies!
+3 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+Analyzing my_shop_mini_2...                                     
+
+warning - Unused import: 'package:flutter/material.dart' - lib\models\product_model.dart:1:8 - unused_import
+
