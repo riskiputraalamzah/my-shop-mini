@@ -16,7 +16,7 @@ Berikut adalah tampilan antarmuka aplikasi **MyShop Mini**:
 | ![Home Screen](screenshots/home.png) | ![Product List](screenshots/list.png) | ![Product Detail](screenshots/detail.png) |
 | *Tampilan Utama* | *Daftar Produk* | *Detail Produk* |
 
-> **Catatan**: Simpan screenshot aplikasi Anda di dalam folder `screenshots` dengan nama file `home.png`, `list.png`, dan `detail.png`.
+
 
 ## Deskripsi Proyek
 **MyShop Mini** adalah aplikasi *e-commerce* sederhana berbasis Flutter yang dirancang dengan antarmuka modern ala *high-fashion* (inspirasi Zalora). Aplikasi ini memiliki alur navigasi yang intuitif dan tampilan visual yang menarik.
